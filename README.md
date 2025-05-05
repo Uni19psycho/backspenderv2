@@ -25,3 +25,18 @@ git clone https://github.com/uni19psycho/backspenderv2.git
 cd backspenderv2
 npm install
 
+## ⚙️ How to Use
+
+### 2. Create `.env` File (Do NOT upload this!)
+
+```ini
+RPC_URL_OP=your-op-rpc
+RPC_URL_BASE=your-base-rpc
+RPC_URL_SONEIUM=your-soneium-rpc
+PRIVATE_KEY=your-wallet-private-key
+RECEIVER_ADDRESS=wallet-to-receive-usdc
+
+### 3. Start the Bot
+Run this command from the project root:
+
+node scripts/backspender.js

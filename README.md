@@ -12,7 +12,7 @@ This bot randomly selects two chains, fetches a LiFi quote, checks allowance, an
 - ✅ Chain-to-chain via LiFi quotes
 - ✅ Slippage-safe & contract-checking logic
 - ✅ Supports: Optimism, Base, Soneium
-- ✅ Adjustable delay, cooldown, and thresholds
+- ✅ Adjustable delay, cooldown, and thresholds 
 
 ## ⚙️ Usage
 
